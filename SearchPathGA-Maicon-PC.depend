@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1494459768 source:d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\main.cpp
+	<iostream>
+	<GeneticAlgorithm.h>
+	<SuperMatrix.h>
+	<SuperVector.h>
+	<Problem.h>
+
+1494290347 d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\include\supervector.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1494290354 source:d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\src\supervector.cpp
+	"SuperVector.h"
+
+1494284914 source:d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\src\supermatrix.cpp
+	"SuperMatrix.h"
+
+1494284562 d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\include\supermatrix.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<SuperVector.h>
+
+1494459654 d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\include\geneticalgorithm.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<SuperVector.h>
+	<SuperMatrix.h>
+	<fstream>
+	<time.h>
+	<Problem.h>
+
+1494459824 source:d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\src\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+
+1494459867 d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\include\problem.h
+	<SuperVector.h>
+
+1494459145 source:d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\src\problem.cpp
+	"Problem.h"
+	<iostream>
+	<fstream>
+
+1496434148 source:d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\src\trucklist.cpp
+	"TruckList.h"
+
+1496434598 d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\include\trucklist.h
+	<stdint.h>
+	<vector>
+

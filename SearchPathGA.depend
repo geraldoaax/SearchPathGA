@@ -1,0 +1,562 @@
+# depslib dependency file v1.0
+1494459768 source:d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\main.cpp
+	<iostream>
+	<GeneticAlgorithm.h>
+	<SuperMatrix.h>
+	<SuperVector.h>
+	<Problem.h>
+
+1494290347 d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\include\supervector.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1494290354 source:d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\src\supervector.cpp
+	"SuperVector.h"
+
+1494284914 source:d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\src\supermatrix.cpp
+	"SuperMatrix.h"
+
+1494284562 d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\include\supermatrix.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<SuperVector.h>
+
+1494459654 d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\include\geneticalgorithm.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<SuperVector.h>
+	<SuperMatrix.h>
+	<fstream>
+	<time.h>
+	<Problem.h>
+
+1494459824 source:d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\src\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+
+1494459867 d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\include\problem.h
+	<SuperVector.h>
+
+1494459145 source:d:\arquivos\onedrive\ag\ag_mestrado\searchpathga\src\problem.cpp
+	"Problem.h"
+	<iostream>
+	<fstream>
+
+1499382633 source:d:\mestrado\drivers\onedrive\ag\ag_mestrado\searchpathga\main.cpp
+	<iostream>
+	<GeneticAlgorithm.h>
+	<SuperMatrix.h>
+	<SuperVector.h>
+	<Problem.h>
+	<time.h>
+
+1497567383 d:\mestrado\drivers\onedrive\ag\ag_mestrado\searchpathga\include\geneticalgorithm.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<SuperVector.h>
+	<SuperMatrix.h>
+	<fstream>
+	<time.h>
+	<Problem.h>
+
+1494290347 d:\mestrado\drivers\onedrive\ag\ag_mestrado\searchpathga\include\supervector.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1497563882 d:\mestrado\drivers\onedrive\ag\ag_mestrado\searchpathga\include\supermatrix.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<SuperVector.h>
+
+1501023545 d:\mestrado\drivers\onedrive\ag\ag_mestrado\searchpathga\include\problem.h
+	<SuperVector.h>
+	<string>
+	<sstream>
+
+1497567368 source:d:\mestrado\drivers\onedrive\ag\ag_mestrado\searchpathga\src\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+
+1501023722 source:d:\mestrado\drivers\onedrive\ag\ag_mestrado\searchpathga\src\problem.cpp
+	"Problem.h"
+	<iostream>
+	<fstream>
+	<math.h>
+
+1497566392 source:d:\mestrado\drivers\onedrive\ag\ag_mestrado\searchpathga\src\supermatrix.cpp
+	"SuperMatrix.h"
+
+1497566497 source:d:\mestrado\drivers\onedrive\ag\ag_mestrado\searchpathga\src\supervector.cpp
+	"SuperVector.h"
+
+1496434746 source:d:\mestrado\drivers\onedrive\ag\ag_mestrado\searchpathga\src\trucklist.cpp
+	"TruckList.h"
+
+1496434736 d:\mestrado\drivers\onedrive\ag\ag_mestrado\searchpathga\include\trucklist.h
+	<stdint.h>
+	<vector>
+
+1522584960 source:d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga\src\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+	<GeneticAlgorithm.h>
+
+1497567383 d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga\include\geneticalgorithm.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<SuperVector.h>
+	<SuperMatrix.h>
+	<fstream>
+	<time.h>
+	<Problem.h>
+
+1509802095 d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga\include\supervector.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1497563882 d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga\include\supermatrix.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<SuperVector.h>
+
+1509894704 d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga\include\problem.h
+	<SuperVector.h>
+	<string>
+	<sstream>
+
+1522584918 source:d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga\src\problem.cpp
+	"Problem.h"
+	<Problem.h>
+	<iostream>
+	<fstream>
+	<math.h>
+
+1522585024 source:d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga\src\supermatrix.cpp
+	"SuperMatrix.h"
+	<SuperMatrix.h>
+
+1522585089 source:d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga\src\supervector.cpp
+	"SuperVector.h"
+	<SuperVector.h>
+
+1522585050 source:d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga\src\trucklist.cpp
+	"TruckList.h"
+	<TruckList.h>
+
+1496434736 d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga\include\trucklist.h
+	<stdint.h>
+	<vector>
+
+1522584735 source:d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga\main.cpp
+	<iostream>
+	"GeneticAlgorithm.h"
+	"SuperMatrix.h"
+	"SuperVector.h"
+	"Problem.h"
+	<GeneticAlgorithm.h>
+	<SuperMatrix.h>
+	<SuperVector.h>
+	<Problem.h>
+	<Windows.h>
+	<time.h>
+
+1522082205 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga\main.cpp
+	<iostream>
+	<GeneticAlgorithm.h>
+	<SuperMatrix.h>
+	<SuperVector.h>
+	<Problem.h>
+	<time.h>
+	<Windows.h>
+
+1497567383 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga\include\geneticalgorithm.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<SuperVector.h>
+	<SuperMatrix.h>
+	<fstream>
+	<time.h>
+	<Problem.h>
+
+1509805695 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga\include\supervector.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1497563882 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga\include\supermatrix.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<SuperVector.h>
+
+1509898304 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga\include\problem.h
+	<SuperVector.h>
+	<string>
+	<sstream>
+
+1509813834 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga\src\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+
+1520622597 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga\src\problem.cpp
+	"Problem.h"
+	<iostream>
+	<fstream>
+	<math.h>
+
+1497566392 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga\src\supermatrix.cpp
+	"SuperMatrix.h"
+
+1509806135 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga\src\supervector.cpp
+	"SuperVector.h"
+
+1496434746 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga\src\trucklist.cpp
+	"TruckList.h"
+
+1496434736 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga\include\trucklist.h
+	<stdint.h>
+	<vector>
+
+1522584960 source:d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga_linux\src\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+	<GeneticAlgorithm.h>
+
+1497567383 d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga_linux\include\geneticalgorithm.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<SuperVector.h>
+	<SuperMatrix.h>
+	<fstream>
+	<time.h>
+	<Problem.h>
+
+1509802095 d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga_linux\include\supervector.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1497563882 d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga_linux\include\supermatrix.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<SuperVector.h>
+
+1522591676 d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga_linux\include\problem.h
+	<SuperVector.h>
+	<string>
+	<sstream>
+
+1522592016 source:d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga_linux\src\problem.cpp
+	"Problem.h"
+	<Problem.h>
+	<iostream>
+	<fstream>
+	<math.h>
+
+1522585024 source:d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga_linux\src\supermatrix.cpp
+	"SuperMatrix.h"
+	<SuperMatrix.h>
+
+1522585089 source:d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga_linux\src\supervector.cpp
+	"SuperVector.h"
+	<SuperVector.h>
+
+1522585050 source:d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga_linux\src\trucklist.cpp
+	"TruckList.h"
+	<TruckList.h>
+
+1496434736 d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga_linux\include\trucklist.h
+	<stdint.h>
+	<vector>
+
+1522591899 source:d:\mestrado\drivers\dropbox\ag_mestrado\searchpathga_linux\main.cpp
+	<iostream>
+	<time.h>
+	"GeneticAlgorithm.h"
+	"SuperMatrix.h"
+	"SuperVector.h"
+	"Problem.h"
+	<GeneticAlgorithm.h>
+	<SuperMatrix.h>
+	<SuperVector.h>
+	<Problem.h>
+	<Windows.h>
+
+1522584960 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga_linux\src\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+	<GeneticAlgorithm.h>
+
+1522688601 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga_linux\include\geneticalgorithm.h
+	<iostream>
+	<vector>
+	<algorithm>
+	"Problem.h"
+	"SuperVector.h"
+	"SuperMatrix.h"
+	<Problem.h>
+	<SuperVector.h>
+	<SuperMatrix.h>
+	<fstream>
+	<time.h>
+
+1522688550 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga_linux\include\problem.h
+	"SuperVector.h"
+	<SuperVector.h>
+	<string>
+	<sstream>
+
+1509805695 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga_linux\include\supervector.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1522688635 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga_linux\include\supermatrix.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	"SuperVector.h"
+	<SuperVector.h>
+
+1522591972 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga_linux\src\problem.cpp
+	"Problem.h"
+	<Problem.h>
+	<iostream>
+	<fstream>
+	<math.h>
+
+1522585024 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga_linux\src\supermatrix.cpp
+	"SuperMatrix.h"
+	<SuperMatrix.h>
+
+1522585089 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga_linux\src\supervector.cpp
+	"SuperVector.h"
+	<SuperVector.h>
+
+1522585050 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga_linux\src\trucklist.cpp
+	"TruckList.h"
+	<TruckList.h>
+
+1496434736 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga_linux\include\trucklist.h
+	<stdint.h>
+	<vector>
+
+1522689030 source:c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga_linux\main.cpp
+	<iostream>
+	<time.h>
+	"GeneticAlgorithm.h"
+	"SuperMatrix.h"
+	"SuperVector.h"
+	"Problem.h"
+	<GeneticAlgorithm.h>
+	<SuperMatrix.h>
+	<SuperVector.h>
+	<Problem.h>
+	<Windows.h>
+
+1522881313 c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga_linux\include\geneticalgorithm.h
+	<iostream>
+	<vector>
+	<algorithm>
+	"Problem.h"
+	"SuperVector.h"
+	"SuperMatrix.h"
+	<Problem.h>
+	<SuperVector.h>
+	<SuperMatrix.h>
+	<fstream>
+	<time.h>
+
+1522688552 c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga_linux\include\problem.h
+	"SuperVector.h"
+	<SuperVector.h>
+	<string>
+	<sstream>
+
+1509802096 c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga_linux\include\supervector.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1522688636 c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga_linux\include\supermatrix.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	"SuperVector.h"
+	<SuperVector.h>
+
+1522881372 source:c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga_linux\src\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+	<GeneticAlgorithm.h>
+
+1522591972 source:c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga_linux\src\problem.cpp
+	"Problem.h"
+	<Problem.h>
+	<iostream>
+	<fstream>
+	<math.h>
+
+1522585024 source:c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga_linux\src\supermatrix.cpp
+	"SuperMatrix.h"
+	<SuperMatrix.h>
+
+1522585090 source:c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga_linux\src\supervector.cpp
+	"SuperVector.h"
+	<SuperVector.h>
+
+1522585050 source:c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga_linux\src\trucklist.cpp
+	"TruckList.h"
+	<TruckList.h>
+
+1496434736 c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga_linux\include\trucklist.h
+	<stdint.h>
+	<vector>
+
+1522884331 source:c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga2018_linux_final\searchpathga2018\src\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+	<GeneticAlgorithm.h>
+
+1522884303 c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga2018_linux_final\searchpathga2018\include\geneticalgorithm.h
+	<iostream>
+	<vector>
+	<algorithm>
+	"Problem.h"
+	"SuperVector.h"
+	"SuperMatrix.h"
+	<Problem.h>
+	<SuperVector.h>
+	<SuperMatrix.h>
+	<fstream>
+	<time.h>
+
+1522348090 c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga2018_linux_final\searchpathga2018\include\supervector.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1522348352 c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga2018_linux_final\searchpathga2018\include\supermatrix.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	"SuperVector.h"
+
+1522691612 c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga2018_linux_final\searchpathga2018\include\problem.h
+	"SuperVector.h"
+	<string>
+	<sstream>
+
+1522691074 source:c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga2018_linux_final\searchpathga2018\src\problem.cpp
+	"Problem.h"
+	<iostream>
+	<fstream>
+	<math.h>
+
+1522348080 source:c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga2018_linux_final\searchpathga2018\src\supermatrix.cpp
+	"SuperMatrix.h"
+
+1522348080 source:c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga2018_linux_final\searchpathga2018\src\supervector.cpp
+	"SuperVector.h"
+
+1522348080 source:c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga2018_linux_final\searchpathga2018\src\trucklist.cpp
+	"TruckList.h"
+
+1522348090 c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga2018_linux_final\searchpathga2018\include\trucklist.h
+	<stdint.h>
+	<vector>
+
+1522887461 source:c:\users\maicon-asus\desktop\nova pasta (3)\searchpathga2018_linux_final\searchpathga2018\main.cpp
+	<iostream>
+	"GeneticAlgorithm.h"
+	"SuperMatrix.h"
+	"SuperVector.h"
+	"Problem.h"
+	<time.h>
+	<omp.h>
+	<Windows.h>
+
+1523236309 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga2018_linux_final_openmp\searchpathga2018\main.cpp
+	<iostream>
+	"GeneticAlgorithm.h"
+	"SuperMatrix.h"
+	"SuperVector.h"
+	"Problem.h"
+	<time.h>
+	<omp.h>
+	<Windows.h>
+
+1522884303 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga2018_linux_final_openmp\searchpathga2018\include\geneticalgorithm.h
+	<iostream>
+	<vector>
+	<algorithm>
+	"Problem.h"
+	"SuperVector.h"
+	"SuperMatrix.h"
+	<Problem.h>
+	<SuperVector.h>
+	<SuperMatrix.h>
+	<fstream>
+	<time.h>
+
+1522691612 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga2018_linux_final_openmp\searchpathga2018\include\problem.h
+	"SuperVector.h"
+	<string>
+	<sstream>
+
+1522348090 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga2018_linux_final_openmp\searchpathga2018\include\supervector.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+
+1522348352 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga2018_linux_final_openmp\searchpathga2018\include\supermatrix.h
+	<stdint.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	"SuperVector.h"
+
+1522884331 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga2018_linux_final_openmp\searchpathga2018\src\geneticalgorithm.cpp
+	"GeneticAlgorithm.h"
+	<GeneticAlgorithm.h>
+
+1522691074 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga2018_linux_final_openmp\searchpathga2018\src\problem.cpp
+	"Problem.h"
+	<iostream>
+	<fstream>
+	<math.h>
+
+1522348080 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga2018_linux_final_openmp\searchpathga2018\src\supermatrix.cpp
+	"SuperMatrix.h"
+
+1522348080 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga2018_linux_final_openmp\searchpathga2018\src\supervector.cpp
+	"SuperVector.h"
+
+1522348080 source:e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga2018_linux_final_openmp\searchpathga2018\src\trucklist.cpp
+	"TruckList.h"
+
+1522348090 e:\documentos\dropbox (pessoal)\ag_mestrado\searchpathga2018_linux_final_openmp\searchpathga2018\include\trucklist.h
+	<stdint.h>
+	<vector>
+
